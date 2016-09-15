@@ -1,0 +1,31 @@
+/*https://s-media-cache-ak0.pinimg.com/736x/c3/8d/26/c38d26fef5fa18242efa5385ffb207d3.jpg*/
+/*http://ia.media-imdb.com/images/M/MV5BMTY5NTAzNTc1NF5BMl5BanBnXkFtZTYwNDY4MDc3._V1_UX148_CR0,0,148,216_AL_.jpg */
+
+h1 {
+  font-size: 7em;
+  font-family: 'Kaushan Script', cursive;
+}
+
+.white-border{
+  border-width: 10px;
+  border-style:double;
+  
+}
+.box2 {
+    display: block;
+    padding: 10px;
+    text-align: justify;
+    margin-top: 40px;
+}
+.box1{
+  background-color:#E0D8E0;
+}
+p{
+  font-size: 15px;
+  font-family: 'Baloo Paaji', cursive;
+}
+
+h2{
+  font-size: 5em;
+  font-family: 'Kaushan Script', cursive;
+}
